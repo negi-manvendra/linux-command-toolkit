@@ -1,0 +1,28 @@
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Build directories
+dist/
+build/
+
+# Node modules (future projects)
+node_modules/
+
+# Python cache (future projects)
+__pycache__/
+*.pyc
