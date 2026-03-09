@@ -47,3 +47,12 @@ Run:
 
 ```bash
 bash scripts/system_info.sh
+
+### run_all_checks.sh
+
+Runs all toolkit scripts sequentially to perform a full system inspection.
+
+Usage:
+
+```bash
+bash scripts/run_all_checks.sh
